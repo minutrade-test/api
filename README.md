@@ -1,4 +1,7 @@
-api
-===
+Requerimentos
+-Node.js
+-NPM
 
-API
+Para rodar o web-app insira os seguintes comandos a partir da raiz..
+(sudo) npm install
+node server
