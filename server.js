@@ -15,7 +15,8 @@ var app = express();
 app.use(cors({
    allowedOrigins: [
        'http://127.0.0.1:3000',
-       'http://localhost:3000'
+       'http://localhost:3000',
+       'http://minutrade.s3-website-us-west-2.amazonaws.com'
    ]
 }));
 
